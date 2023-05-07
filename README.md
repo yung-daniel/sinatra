@@ -1,1 +1,1 @@
-ultralytics 8.1.25 fix **kwargs: (dict) warnings (#8815)
+Try Apple M1 runners for Tests and Benchmarks CI (#8162)
