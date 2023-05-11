@@ -1,1 +1,1 @@
-Docs updates and improvements (#8183)
+Optimize function calls to method calls (#8507)
