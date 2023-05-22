@@ -1,1 +1,1 @@
-ultralytics 8.0.227 respect defaults.yaml data (#6935)
+Add Non-Maximum Suppression (NMS) inplace flag (#8368)
