@@ -1,1 +1,1 @@
-Add Non-Maximum Suppression (NMS) inplace flag (#8368)
+ultralytics 8.1.33 fix HUB model checks (#9153)
