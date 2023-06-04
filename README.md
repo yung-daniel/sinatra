@@ -1,1 +1,1 @@
-Avoid creating -hub dir without processing images (#8334)
+Update fraction arg to employ a random selection (#8234)
