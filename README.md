@@ -1,1 +1,1 @@
-ultralytics 8.1.29 improved disk space checking on correct path (#8977)
+ultralytics 8.0.233 improve Classify train augmentations (#4546)
