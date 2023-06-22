@@ -1,1 +1,1 @@
-Update YOLOv3 and YOLOv5 YAMLs (#7574)
+Add https://youtu.be/ie3vLUDNYZo and other YT videos in Docs (#8551)
