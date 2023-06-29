@@ -1,1 +1,1 @@
-Fix solution functions description + integrations/openvino.md cover image update (#8170)
+Add HeatMap guide in real-world-projects + Code in Solutions Directory (#6796)
