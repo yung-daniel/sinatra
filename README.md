@@ -1,1 +1,1 @@
-Improve Coral Edge TPU guide (#8160)
+Add PR Summary step to Ultralytics Actions (#7675)
