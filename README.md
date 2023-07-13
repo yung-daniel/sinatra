@@ -1,1 +1,1 @@
-Add KaTeX support + updates to YOLOv9 model page (#8531)
+Download Manager - Extensive enhancements to the downloading functionality of Safari, check the preference page for more detailed info
