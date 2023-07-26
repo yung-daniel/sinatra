@@ -1,1 +1,1 @@
-Fix Multi-GPU resume bug (#7328)
+Add NCNN Docs Integrations Page (#8562)
