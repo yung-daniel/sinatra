@@ -1,1 +1,1 @@
-OBB: update metrics (#7593)
+fix for predicting with batch_size > 1 (#47)
