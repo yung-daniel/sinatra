@@ -1,1 +1,1 @@
-Fixed RTDETR GFLOPs bug (#7309)
+Update the heatmap module code + docs (#7045)
