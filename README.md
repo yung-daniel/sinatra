@@ -1,1 +1,1 @@
-Pass callbacks to validator (#7320)
+ultralytics 8.0.228 add training time argument (#7054)
