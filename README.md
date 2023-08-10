@@ -1,1 +1,1 @@
-Tracker: clean up GMC (#8003)
+Fix solution functions description + integrations/openvino.md cover image update (#8170)
