@@ -1,1 +1,1 @@
-Remove JAX constraints in Exporter (#8309)
+ultralytics 8.0.228 add training time argument (#7054)
