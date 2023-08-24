@@ -1,1 +1,1 @@
-Update Twitter icon in Docs (#7711)
+Expand Model method type hinting (#8279)
