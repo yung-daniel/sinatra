@@ -1,1 +1,1 @@
-fix export tensorrt with dynamic size
+Add estimate_speed(region_color) parameter (#8285)
