@@ -1,1 +1,1 @@
-Optimize TFJS export on ARM64 (#8946)
+docs: update view-results-in-terminal.md (#66)
