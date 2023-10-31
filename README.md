@@ -1,1 +1,1 @@
-Add Weights & Biases Docs integrations page (#7199)
+Rename model_id to model.id (#8447)
