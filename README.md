@@ -1,1 +1,1 @@
-ultralytics 8.1.34 Inference API robust imgsz checks (#9274)
+Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
