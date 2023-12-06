@@ -1,1 +1,1 @@
-More robust PNNX downloads (#8866)
+Add C++ Classify inference example (#6868)
