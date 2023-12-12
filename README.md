@@ -1,1 +1,1 @@
-Fix cmake requirements for ARM64 (#8589)
+Add quantization support to TensorFlow.js converter (#7008)
