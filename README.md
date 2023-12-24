@@ -1,1 +1,1 @@
-Fix TFLite INT8 for OBB (#7989)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
