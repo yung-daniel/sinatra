@@ -1,1 +1,1 @@
-Bounding Box to OBB conversion (#7572)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
