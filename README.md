@@ -1,1 +1,1 @@
-Fix heatmaps width-height order bug (#7184)
+ultralytics 8.1.22 HUB model pathlib fix (#8621)
