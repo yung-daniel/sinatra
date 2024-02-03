@@ -1,1 +1,1 @@
-Updated SQL Query Plot Code (#8120)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
