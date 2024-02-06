@@ -1,1 +1,1 @@
-Added check of parameter type before setting required_grad=True for frozen layers (#8318)
+Update Docs Home and Neural Magic pages (#7243)
