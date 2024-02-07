@@ -1,1 +1,1 @@
-Update Docs Home and Neural Magic pages (#7243)
+Add Non-Maximum Suppression (NMS) inplace flag (#8368)
