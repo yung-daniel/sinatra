@@ -1,1 +1,1 @@
-Fix ONNX GPU inference bug (#6840)
+Add ONNX Docs integrations page (#7802)
