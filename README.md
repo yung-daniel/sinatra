@@ -1,1 +1,1 @@
-Fix OpenVINO links (#7930)
+Fix undefined ‘im_array’ bug in predict.md (#8565)
