@@ -1,1 +1,1 @@
-Update HTTP to HTTPS (#7548)
+Add OpenVINO Latency vs Throughput modes Docs page (#9001)
