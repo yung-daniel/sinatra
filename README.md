@@ -1,1 +1,1 @@
-Segment TensorRT batch=3 fix (#7952)
+Update Colab notebook for YOLOv8.1 (#8660)
