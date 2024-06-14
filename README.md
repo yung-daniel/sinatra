@@ -1,1 +1,1 @@
-Auto-format by https://ultralytics.com/actions
+Compress docs images (#8124)
