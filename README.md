@@ -1,1 +1,1 @@
-OBB: Fix when training on zip data (#8680)
+Update Colab notebook for YOLOv8.1 (#8660)
