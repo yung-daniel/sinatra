@@ -1,1 +1,1 @@
-Tracker: clean up GMC (#8003)
+Add OpenVINO Latency vs Throughput modes Docs page (#9001)
