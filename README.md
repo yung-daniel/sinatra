@@ -1,1 +1,1 @@
-Add TensorRT Docs Integrations Page (#7855)
+Compress explorer image in dataset/index.md + description added for new segmentation datasets (#7901)
