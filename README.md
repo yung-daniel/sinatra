@@ -1,1 +1,1 @@
-Fix PIL show() and save() (#8202)
+Clean up unused imgsz (#7771)
