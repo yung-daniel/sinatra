@@ -1,1 +1,1 @@
-Fix xyxyxyxyn calculation in obb result (#8188)
+fix for predicting with batch_size > 1 (#47)
