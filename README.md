@@ -1,1 +1,1 @@
-OBB Docs updates (#7568)
+OBB: Fix plot_images (#7592)
