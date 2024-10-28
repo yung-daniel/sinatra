@@ -1,1 +1,1 @@
-ADD | opnecv c++ Onnx integration (#70)
+ultralytics 8.1.26 LoadImagesAndVideos batched inference (#8817)
