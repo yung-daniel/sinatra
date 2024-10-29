@@ -1,1 +1,1 @@
-Improve Coral Edge TPU guide (#8160)
+Remove unused variables (#8511)
