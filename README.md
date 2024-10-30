@@ -1,1 +1,1 @@
-ultralytics 8.1.17 fix ClassificationDataset caching (#8358)
+ultralytics 8.1.32 fix CLIP backwards compatibility (#9253)
