@@ -1,1 +1,1 @@
-Segment TensorRT batch=3 fix (#7952)
+Add TFLite Edge TPU Docs Integrations Page  (#8900)
