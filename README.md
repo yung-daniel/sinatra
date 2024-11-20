@@ -1,1 +1,1 @@
-Python refactorings and simplifications (#7549)
+Add object blurring & object cropping modules in Ultralytics docs (#7434)
