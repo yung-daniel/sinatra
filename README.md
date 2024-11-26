@@ -1,1 +1,1 @@
-Remove unused variables (#8511)
+Update Discord and Contributing Guide URLs (#9270)
