@@ -1,1 +1,1 @@
-ultralytics 8.1.31 NCNN and CLIP updates (#9235)
+ultralytics 8.0.226 Validator Path and Tuner space (#6901)
